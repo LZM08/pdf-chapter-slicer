@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a simple tool that helps you split a big PDF book into smaller PDFs - one for each chapter! 
+This is a simple tool that helps you split a big PDF book into smaller PDFs - one for each chapter!
 
 ## How it works
 
@@ -58,4 +58,10 @@ This is a simple tool that helps you split a big PDF book into smaller PDFs - on
 ✅ 챕터별 PDF 저장 완료
 ```
 
-Now you can find all your chapter PDFs in the "SplitChapters" folder!
+## Results
+
+Here's what you'll get after running the program:
+
+![Chapter Split Result](Result_img.png)
+
+Each chapter is saved as its own separate PDF file, making it easy to find and read just the parts you need!
